@@ -2,7 +2,7 @@
 This script enables you to back up your Spoolman database to GitHub. It follows a setup process similar to [Eric Zimmerman's backup scripts](https://docs.vorondesign.com/community/howto/EricZimmerman/BackupConfigToGithub.html). To use this script, you need to create a dedicated repository for your database and set up an access token by following Eric's detailed instructions.
 
 ## Installation
-The following instructions provide a basic setup overview. For more detailed instructions, please refer to Eric's guide. For instructions on setting up Spoolman, please refer to the [Spoolman standalone installation guide](https://github.com/Donkie/Spoolman#standalone). Ensure you have already cloned Spoolman to your home directory and have it properly installed. 
+The following instructions provide a basic setup overview. For more detailed instructions, please refer to Eric's guide. For instructions on setting up Spoolman, please refer to the [Spoolman standalone installation guide](https://github.com/Donkie/Spoolman/wiki/Installation#standalone-install). Ensure you have already cloned Spoolman to your home directory and have it properly installed. 
 
 1. If the Spoolman database directory is not already a Git repository, initialize it as one:
     ```bash
